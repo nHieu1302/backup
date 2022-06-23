@@ -1,3 +1,5 @@
+local SuperFastMode = false -- dung de bat hoac tat script
+
 local plr = game.Players.LocalPlayer
 
 local CbFw = debug.getupvalues(require(plr.PlayerScripts.CombatFramework))
