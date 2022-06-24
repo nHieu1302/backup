@@ -1,4 +1,4 @@
-local SuperFastMode = false -- dung de bat hoac tat script
+local SuperFastMode = false -- chinh false thanh true neu may muon danh nhanh hon (chac vay)
 
 local plr = game.Players.LocalPlayer
 
