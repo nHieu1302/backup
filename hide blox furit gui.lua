@@ -1,0 +1,37 @@
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Energy.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.StatsButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.ShopButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Skills.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Level.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.MenuButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Code.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Settings.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Mute.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.CrewButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Skills.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Compass.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Beli.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.HP.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Energy.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.StatsButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.ShopButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Skills.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Level.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.MenuButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Code.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Settings.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Mute.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.CrewButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Fragments.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Beli.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.HP.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Energy.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.StatsButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.ShopButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Level.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.MenuButton.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Code.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Settings.Visible = false
+game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Mute.Visible = false
+game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.Backpack,false)
+game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.Skills,false)
