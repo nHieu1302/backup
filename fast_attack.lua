@@ -63,16 +63,8 @@ local cac
 if SuperFastMode then 
 	cac=task.wait
 else
-	cac=wait(0.2)
+	cac=wait
 end
 while cac() do 
 	AttackNoCD()
 end
-
-game.StarterGui:SetCore("SendNotification",  {
- Title = "TiktTok :@n.hieu1392";
- Text = "Đã sửa để hầu như không ăn kick :))";
- Duration = 9e9;
- Button1 = "OK ";
- Callback = NotificationBindable;
-})
