@@ -1,3 +1,11 @@
+game.StarterGui:SetCore("SendNotification",  {
+ Title = "TiktTok :@n.hieu1392";
+ Text = "Đã sửa để hầu như không ăn kick :))";
+ Duration = 9e9;
+ Button1 = "OK ";
+ Callback = NotificationBindable;
+})
+
 local SuperFastMode = false -- chinh false thanh true neu may muon danh nhanh hon (chac vay)
 
 local plr = game.Players.LocalPlayer
@@ -65,6 +73,6 @@ if SuperFastMode then
 else
 	cac=wait
 end
-while cac() do 
+while cac(0.1) do 
 	AttackNoCD()
 end
