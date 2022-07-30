@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification",  {
- Title = "TikTok :@n.hieu1392";
+ Title = "TikTok: @n.hieu1392";
  Text = "Đã sửa để hầu như không bị ăn kick :))";
  Duration = 9e9;
  Button1 = "OK ";
